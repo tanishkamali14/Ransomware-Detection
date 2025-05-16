@@ -1,0 +1,19 @@
+model,label,precision,recall,f1,support
+Logistic Regression,SS,0.87,0.93,0.9,12031
+Logistic Regression,A,0.82,0.84,0.83,12768
+Logistic Regression,S,0.93,0.87,0.9,19914
+Logistic Regression,macro avg,0.87,0.88,0.88,44713
+Logistic Regression,weighted avg,0.88,0.88,0.88,44713
+Logistic Regression,accuracy,0.8790508353275334,,,
+Random Forest,SS,0.99,0.99,0.99,12031
+Random Forest,A,0.99,0.99,0.99,12768
+Random Forest,S,0.99,0.98,0.99,19914
+Random Forest,macro avg,0.99,0.99,0.99,44713
+Random Forest,weighted avg,0.99,0.99,0.99,44713
+Random Forest,accuracy,0.9882137186053274,,,
+XGBoost,SS,0.99,1.0,0.99,12031
+XGBoost,A,0.99,0.99,0.99,12768
+XGBoost,S,1.0,0.98,0.99,19914
+XGBoost,macro avg,0.99,0.99,0.99,44713
+XGBoost,weighted avg,0.99,0.99,0.99,44713
+XGBoost,accuracy,0.9905620289401292,,,
